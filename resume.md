@@ -1,6 +1,6 @@
 # Jin Ning Huang
 
-jinh48@uw.edu 
+jinh48@uw.edu
 
 https://www.linkedin.com/in/jin-ning-huang-9675b513a/
 
@@ -34,7 +34,7 @@ A self-driven students’ group (2 people) for creating the interactive map that
 
 ## Waste Classifier (Seattle, WA)
 
-***Data Programmer***
+***Hackathon (Data Programmer)***
 (Oct 2019)
 
 **Description:**
