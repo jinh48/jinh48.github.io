@@ -1,8 +1,10 @@
 # Jin Ning Huang
 
-jinh48@uw.edu
+[Email] (jinh48@uw.edu)
+[Linkedin]
 
-https://www.linkedin.com/in/jin-ning-huang-9675b513a/
+[email]: jinh48@uw.edu
+[Linkedin]: https://www.linkedin.com/in/jin-ning-huang-9675b513a/
 
 >"Let your smile change the world but don't let the world change your smile"
 
@@ -47,8 +49,8 @@ A small group of 4 working on Google Cloud ML to detect a given object by the we
 ## University of Washington (Seattle, WA)
 ![UW logo](UWlogo.png)
 
-***B.A. Geography (Data Science)***
-***Minor in Informatics and Applied Math***
+***B.A. Geography (Data Science)*** \
+***Minor in Informatics and Applied Math*** \
 (Sept 2016 - June 2021)
 
 **Relevant Coursework:**
