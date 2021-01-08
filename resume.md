@@ -4,6 +4,8 @@ jinh48@uw.edu
 
 https://www.linkedin.com/in/jin-ning-huang-9675b513a/
 
+>"Let your smile change the world but don't let the world change your smile"
+
 # Summary
 
 The job post that was listed on Linkedin matched the hard skills that I can be qualified for. I can see that this job can be helpful on my career path, and I will work hard to satisfy your expectation of the result.
@@ -43,6 +45,8 @@ A small group of 4 working on Google Cloud ML to detect a given object by the we
 # Education Experience
 
 ## University of Washington (Seattle, WA)
+![UW logo](UWlogo.png)
+
 ***B.A. Geography (Data Science)***
 ***Minor in Informatics and Applied Math***
 (Sept 2016 - June 2021)
